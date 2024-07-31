@@ -14,14 +14,14 @@ onMounted(() => {
         href="/"
         class="text-xl font-black leading-none text-gray-900 select-none dark:text-gray-100 logo"
         title="2024"
-      >Sink</a>
+      >2024</a>
       <a
         class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
-        href="https://html.zone"
+        href="https://2024.gq"
         target="_blank"
-        title="HTML.ZONE"
+        title="2024"
       >
-        &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
+        &copy; {{ new Date().getFullYear() }} Products of 2024.gq
       </a>
       <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
@@ -38,7 +38,7 @@ onMounted(() => {
           />
         </a>
         <a
-          href="https://t.me/2024"
+          href="https://t.me/2024gq"
           target="_blank"
           title="Telegram"
           class="text-gray-400 hover:text-gray-500"
