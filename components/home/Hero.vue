@@ -36,15 +36,15 @@ const { title, description } = useAppConfig()
           size="lg"
           type="outline"
           rel="noopener"
-          href="https://github.com/ccbikai/sink"
-          title="Github"
+          href="https://2024.gq"
+          title="2024"
           class="flex items-center justify-center gap-1"
           target="_blank"
         >
           <GitHubIcon
             class="w-5 h-5"
           />
-          GitHub Repo
+          2024
         </HomeLink>
       </div>
     </div>
